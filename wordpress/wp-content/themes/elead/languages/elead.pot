@@ -1,0 +1,889 @@
+# <!=Copyright (C) 2018 Theme Palace
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Elead 0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-02-14 08:54:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.1\n"
+
+#: 404.php:18 inc/helpers.php:380
+msgid "404"
+msgstr ""
+
+#: 404.php:15 inc/modules/about.php:151 inc/modules/courses.php:184
+#: index.php:24
+msgid "Decoration"
+msgstr ""
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: comments.php:55 comments.php:76
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:58 comments.php:79
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:59 comments.php:80
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:93
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:51
+msgid "Primary"
+msgstr ""
+
+#: inc/breadcrumb-class.php:244
+msgid "Browse:"
+msgstr ""
+
+#: inc/breadcrumb-class.php:246
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumb-class.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumb-class.php:248
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumb-class.php:250
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/breadcrumb-class.php:252
+#. Translators: %s is the page number.
+msgid "Page %s"
+msgstr ""
+
+#: inc/breadcrumb-class.php:254
+#. Translators: Minute archive title. %s is the minute time format.
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumb-class.php:256
+#. Translators: Weekly archive title. %s is the week date format.
+msgid "Week %s"
+msgstr ""
+
+#: inc/core.php:44
+msgid "Note"
+msgstr ""
+
+#: inc/core.php:44
+msgid ""
+" The recommended size for image is 1920px by 1080px while using it for "
+"slider"
+msgstr ""
+
+#: inc/customizer/customizer.php:39
+msgid "Homepage Sections"
+msgstr ""
+
+#: inc/customizer/customizer.php:40
+msgid "These options only applies when a static front page is set."
+msgstr ""
+
+#: inc/customizer/customizer.php:70
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:71
+msgid "Elead Theme Options."
+msgstr ""
+
+#: inc/customizer/customizer.php:155
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr ""
+
+#: inc/customizer/defaults.php:19 inc/customizer/defaults.php:46
+#: inc/modules/about.php:105 template-parts/content-blog.php:46
+#: template-parts/content-blog.php:107 template-parts/content-search.php:58
+#: template-parts/content.php:58
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/defaults.php:34
+msgid "News"
+msgstr ""
+
+#: inc/customizer/defaults.php:51
+msgid "Know Who We Are"
+msgstr ""
+
+#: inc/customizer/defaults.php:55
+msgid "We are best for you"
+msgstr ""
+
+#: inc/customizer/defaults.php:56
+msgid "Our Quality Services"
+msgstr ""
+
+#: inc/customizer/defaults.php:62
+msgid "Learn With Us"
+msgstr ""
+
+#: inc/customizer/defaults.php:63
+msgid "Our Courses"
+msgstr ""
+
+#: inc/customizer/defaults.php:66
+msgid "Choose Your Own Path"
+msgstr ""
+
+#: inc/customizer/defaults.php:67
+msgid "Build your career with us"
+msgstr ""
+
+#: inc/customizer/defaults.php:68
+msgid "Start Learning"
+msgstr ""
+
+#: inc/customizer/defaults.php:73
+msgid "Professional Teachers"
+msgstr ""
+
+#: inc/customizer/defaults.php:74
+msgid "Our Qualified Manpower"
+msgstr ""
+
+#: inc/customizer/defaults.php:76
+msgid ""
+"Pellentesque dui lectus, elementum non consectetur sed, lobortis sed dui. "
+"Ut facilisis metus eu vulputate fermentum. Phasellus nulla velit, lobortis "
+"ac faucibus id, maximus eu sapien."
+msgstr ""
+
+#: inc/customizer/sections/about.php:11
+msgid "About"
+msgstr ""
+
+#: inc/customizer/sections/about.php:12
+msgid "About Section Options."
+msgstr ""
+
+#: inc/customizer/sections/about.php:23
+msgid "Enable About Section"
+msgstr ""
+
+#: inc/customizer/sections/about.php:35
+msgid "About Content Type"
+msgstr ""
+
+#: inc/customizer/sections/about.php:40 inc/customizer/sections/slider.php:48
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/sections/about.php:50
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/sections/about.php:64
+#: inc/customizer/sections/call-to-action.php:61
+#: inc/customizer/sections/courses.php:62
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer/sections/call-to-action.php:11
+msgid "Call to Action"
+msgstr ""
+
+#: inc/customizer/sections/call-to-action.php:12
+msgid "Call to Action Section Options."
+msgstr ""
+
+#: inc/customizer/sections/call-to-action.php:23
+msgid "Enable Call to Action Section"
+msgstr ""
+
+#: inc/customizer/sections/call-to-action.php:36
+#: inc/customizer/sections/courses.php:36
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/sections/call-to-action.php:97
+msgid "Button Label 1"
+msgstr ""
+
+#: inc/customizer/sections/call-to-action.php:110
+msgid "Button URL 1"
+msgstr ""
+
+#: inc/customizer/sections/courses.php:11
+msgid "Courses"
+msgstr ""
+
+#: inc/customizer/sections/courses.php:12
+msgid "Courses Section Options."
+msgstr ""
+
+#: inc/customizer/sections/courses.php:23
+msgid "Enable Courses Section"
+msgstr ""
+
+#: inc/customizer/sections/courses.php:86
+msgid "Courses Content Type"
+msgstr ""
+
+#: inc/customizer/sections/courses.php:91
+#: inc/customizer/sections/headline.php:65
+#: inc/customizer/sections/service.php:102 inc/customizer/sections/team.php:115
+msgid "Post"
+msgstr ""
+
+#: inc/customizer/sections/courses.php:103
+#: inc/customizer/sections/headline.php:77
+#: inc/customizer/sections/service.php:113 inc/customizer/sections/team.php:127
+msgid "Input Post Ids"
+msgstr ""
+
+#: inc/customizer/sections/courses.php:104
+msgid ""
+"Simply hover post title on dashboard to see the Post ID. Max no. of posts "
+"allowed is 3. ie: 11, 24, 34"
+msgstr ""
+
+#: inc/customizer/sections/headline.php:11
+msgid "Headline"
+msgstr ""
+
+#: inc/customizer/sections/headline.php:12
+msgid "Headline Section Options."
+msgstr ""
+
+#: inc/customizer/sections/headline.php:23
+msgid "Enable Headline Section"
+msgstr ""
+
+#: inc/customizer/sections/headline.php:36
+msgid "Headline Label"
+msgstr ""
+
+#: inc/customizer/sections/headline.php:60
+msgid "Headline Content Type"
+msgstr ""
+
+#: inc/customizer/sections/headline.php:78
+msgid ""
+"Simply hover post title on dashboard to see the Post ID.ie: 11, 24, 34. Max "
+"no. of posts allowed is 5."
+msgstr ""
+
+#: inc/customizer/sections/headline.php:102
+msgid "Social Link Value For Headline "
+msgstr ""
+
+#: inc/customizer/sections/headline.php:114
+msgid "Enable Social Icon"
+msgstr ""
+
+#: inc/customizer/sections/headline.php:128
+#: inc/customizer/sections/social.php:49
+msgid "Social Link %d"
+msgstr ""
+
+#: inc/customizer/sections/headline.php:133
+#: inc/customizer/sections/social.php:54
+msgid "http://facebook.com"
+msgstr ""
+
+#: inc/customizer/sections/service.php:11
+msgid "Services"
+msgstr ""
+
+#: inc/customizer/sections/service.php:12
+msgid "Services Section Options."
+msgstr ""
+
+#: inc/customizer/sections/service.php:23
+msgid "Enable Service Section"
+msgstr ""
+
+#: inc/customizer/sections/service.php:37 inc/customizer/sections/team.php:36
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/sections/service.php:62 inc/customizer/sections/team.php:61
+msgid "Section SubTitle"
+msgstr ""
+
+#: inc/customizer/sections/service.php:97
+msgid "Services Content Type"
+msgstr ""
+
+#: inc/customizer/sections/service.php:114 inc/customizer/sections/team.php:128
+msgid ""
+"Simply hover post title on dashboard to see the Post ID. Max no. of posts "
+"allowed is 4. ie: 11, 24, 34"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:11
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:12
+msgid "Slider Section Options."
+msgstr ""
+
+#: inc/customizer/sections/slider.php:23
+msgid "Enable Slider Section"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:42
+msgid "Content Type"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:43
+msgid "Recommended slider image size is 1920x1080 px"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:61
+msgid "Select Page %d"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:76
+msgid "Input link button label"
+msgstr ""
+
+#: inc/customizer/sections/social.php:11
+msgid "Social"
+msgstr ""
+
+#: inc/customizer/sections/social.php:12
+msgid "Social Section Options"
+msgstr ""
+
+#: inc/customizer/sections/social.php:23
+msgid "Enable Social Section"
+msgstr ""
+
+#: inc/customizer/sections/social.php:35
+msgid "Enable Section Entire Site"
+msgstr ""
+
+#: inc/customizer/sections/team.php:11
+msgid "Team"
+msgstr ""
+
+#: inc/customizer/sections/team.php:12
+msgid "Team Section Options."
+msgstr ""
+
+#: inc/customizer/sections/team.php:23
+msgid "Enable Team Section"
+msgstr ""
+
+#: inc/customizer/sections/team.php:85
+msgid "Section Description"
+msgstr ""
+
+#: inc/customizer/sections/team.php:110
+msgid "Team Content Type"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:11
+msgid "Blog Page Options"
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:12
+msgid "Blog Page Options."
+msgstr ""
+
+#: inc/customizer/theme-options/blog.php:23
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:11
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:12
+msgid "Breadcrumb section options."
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:23
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:13
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:29
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:55
+msgid "Display Scroll Top Button"
+msgstr ""
+
+#: inc/customizer/theme-options/homepage-static.php:17
+msgid "Enable Content"
+msgstr ""
+
+#: inc/customizer/theme-options/homepage-static.php:18
+msgid "Check to enable content on static front page only."
+msgstr ""
+
+#: inc/customizer/theme-options/layout.php:12
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/layout.php:13
+msgid "Layout section options."
+msgstr ""
+
+#: inc/customizer/theme-options/layout.php:24
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer/theme-options/layout.php:37
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/layout.php:60
+msgid "Option To Make Sticky Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/layout.php:72
+msgid "Enable sticky Menu"
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:12
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:13
+msgid "Pagination section options."
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:24
+msgid "Pagination Enable"
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:36
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:37
+msgid "Works on Blog and Archive Page Only"
+msgstr ""
+
+#: inc/customizer/theme-options/reset.php:15
+msgid "Reset all settings"
+msgstr ""
+
+#: inc/customizer/theme-options/reset.php:16
+msgid ""
+"Caution: All settings will be reset to default. Refresh the page after "
+"clicking Save & Publish."
+msgstr ""
+
+#: inc/customizer/theme-options/reset.php:27
+msgid "Check to reset all settings"
+msgstr ""
+
+#: inc/customizer/theme-options/reset.php:28
+msgid "This option applies for customizer theme options values."
+msgstr ""
+
+#: inc/customizer/theme-options/single.php:11
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/theme-options/single.php:12
+msgid "Single Post Options."
+msgstr ""
+
+#: inc/customizer/theme-options/single.php:23
+msgid "Enable Post Navigation"
+msgstr ""
+
+#: inc/customizer/theme-options/single.php:35
+msgid "Enable Author Box"
+msgstr ""
+
+#: inc/customizer/upgrade-to-pro/class-customize.php:76
+msgid "Elead Pro"
+msgstr ""
+
+#: inc/customizer/upgrade-to-pro/class-customize.php:77
+msgid "Go Pro"
+msgstr ""
+
+#: inc/customizer/validation.php:14
+msgid "You must supply a valid number."
+msgstr ""
+
+#: inc/customizer/validation.php:16
+msgid "Minimum value is 1"
+msgstr ""
+
+#: inc/helpers.php:151
+msgid "Previous Posts"
+msgstr ""
+
+#: inc/helpers.php:152
+msgid "Next Posts"
+msgstr ""
+
+#: inc/helpers.php:382
+msgid "Search Result for: %s"
+msgstr ""
+
+#: inc/helpers.php:407 inc/template-tags.php:42
+msgid "Author"
+msgstr ""
+
+#: inc/metabox/metabox.php:86
+msgid "Layout Options"
+msgstr ""
+
+#: inc/metabox/metabox.php:87
+msgid "Header Image Options"
+msgstr ""
+
+#: inc/metabox/metabox.php:88
+msgid "Select Sidebar"
+msgstr ""
+
+#: inc/metabox/metabox.php:96
+msgid "Default ( to customizer option )"
+msgstr ""
+
+#: inc/metabox/metabox.php:199
+msgid "Elead Meta Options"
+msgstr ""
+
+#: inc/options.php:17
+msgid "Wide"
+msgstr ""
+
+#: inc/options.php:18
+msgid "Boxed"
+msgstr ""
+
+#: inc/options.php:35
+msgid "Right"
+msgstr ""
+
+#: inc/options.php:36
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/options.php:53
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/options.php:54 inc/widgets/widgets.php:41
+msgid "Optional Sidebar 1"
+msgstr ""
+
+#: inc/options.php:71
+msgid "Show Both( Featured and Header Image )"
+msgstr ""
+
+#: inc/options.php:72
+msgid "Enable( Featured Image )"
+msgstr ""
+
+#: inc/options.php:73
+msgid "Default ( Customizer Header Image )"
+msgstr ""
+
+#: inc/options.php:89
+msgid "Numeric"
+msgstr ""
+
+#: inc/options.php:90
+msgid "Default(Older/Newer)"
+msgstr ""
+
+#: inc/structure.php:59
+msgid "Skip to content"
+msgstr ""
+
+#: inc/structure.php:341
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: inc/template-tags.php:50
+msgid "No Comment"
+msgstr ""
+
+#: inc/template-tags.php:50
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:50
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:65
+#. translators: %s: Name of current post
+msgid "Edit %s"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:24
+msgid "A widget to show basic informations with icons."
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:26
+msgid "TP : Custom Info"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:82 inc/widgets/social-link-widget.php:79
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:87
+msgid "Number of fields to show:"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:93
+msgid "Select Icon %s :"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:96
+msgid "Get the icon codes %1$shere%2$s."
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:100
+msgid "First Info %s :"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:105
+msgid "Second Info %s :"
+msgstr ""
+
+#: inc/widgets/social-link-widget.php:23
+msgid "Enter the url only the icon will be displayed as per the links."
+msgstr ""
+
+#: inc/widgets/social-link-widget.php:25
+msgid "TP : Social Link"
+msgstr ""
+
+#: inc/widgets/social-link-widget.php:40 inc/widgets/social-link-widget.php:73
+msgid "Stay Connected"
+msgstr ""
+
+#: inc/widgets/social-link-widget.php:84
+msgid "Number of links to show:"
+msgstr ""
+
+#: inc/widgets/social-link-widget.php:89
+msgid "Open in New Tab"
+msgstr ""
+
+#: inc/widgets/social-link-widget.php:96
+msgid "Link %s :"
+msgstr ""
+
+#: inc/widgets/widgets.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:21 inc/widgets/widgets.php:43
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:30
+msgid "Header Widget Area"
+msgstr ""
+
+#: inc/widgets/widgets.php:32
+msgid "This widget area only supports search widget and contact-info widget here."
+msgstr ""
+
+#: inc/widgets/widgets.php:52
+msgid "Footer Widget Area %d"
+msgstr ""
+
+#: inc/widgets/widgets.php:54
+msgid "This Widget Area is for Footer Section."
+msgstr ""
+
+#: index.php:20
+msgid "Welcome to Our Blog"
+msgstr ""
+
+#: index.php:21
+msgid "Complete Articles"
+msgstr ""
+
+#: searchform.php:14
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:15 searchform.php:17
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-blog.php:36 template-parts/content-blog.php:96
+#: template-parts/content-page.php:39 template-parts/content-search.php:47
+#: template-parts/content-single.php:56 template-parts/content.php:47
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:34 template-parts/content-single.php:51
+#. translators: %s: Name of current post.
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Elead"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themepalace.com/downloads/elead/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Elead is an education based theme developed by Theme Palace. It is a "
+"WordPress Educational Theme suitable for school, college, university and "
+"any other educational consultancy. It's eye appealing design and highly "
+"dynamic features uplifts your organization's reputation. It comes with a "
+"wide number of options so you can modify Header-Image, Homepage-Sections, "
+"Menus, Breadcrumb, Widgets and much more, directly from theme customizer. "
+"It is not limited to educational purpose only but it can be used for "
+"other-purposes too. This theme is translation ready and major browsers "
+"supportive."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Theme Palace"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themepalace.com/"
+msgstr ""
+
+#: comments.php:36
+#. translators: %s: post title
+msgctxt "comments title"
+msgid "One comment"
+msgstr ""
+
+#: comments.php:40
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:119
+#. translators: If there are characters in your language that are not supported
+#. by Oxygen, translate this to 'off'. Do not translate into your own language.
+msgctxt "Oxygen font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:126
+#. translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:131
+#. translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/breadcrumb-class.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumb-class.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumb-class.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumb-class.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/breadcrumb-class.php:758 inc/breadcrumb-class.php:787
+#: inc/breadcrumb-class.php:814 inc/breadcrumb-class.php:841
+#: inc/breadcrumb-class.php:1177
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumb-class.php:759 inc/breadcrumb-class.php:815
+#: inc/breadcrumb-class.php:1181
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumb-class.php:760 inc/breadcrumb-class.php:1185
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/breadcrumb-class.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/customizer/defaults.php:23
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved"
+msgstr ""

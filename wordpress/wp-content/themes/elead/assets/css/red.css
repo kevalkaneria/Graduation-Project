@@ -1,0 +1,30 @@
+/*/*--------------------------------------------------------------
+	# Text color
+/*--------------------------------------------------------------*/
+.picker_close,
+.picker_close:hover,
+.picker_close:focus,
+.entry-title-desc,
+.price,
+#promotion .entry-title-desc,
+.page-header h3,
+.read-more,
+.read-more:after,
+#professional .entry-title-desc,
+.statwrap .fa,
+.statwrap small,
+#testominal .entry-title-desc,
+.thumb-image span,
+.subscribe-text p,
+.site-info a,
+.site-description,
+ul.trail-items li,
+.quatation span,
+.service i,
+#primary span.cat-links a,
+.widget_latest_courses span.tp-course-price,
+#courses-details .entry-meta small .name,
+.course-features li i,
+.page-numbers:before {
+	color: #c1331b;
+}
