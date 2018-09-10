@@ -18,11 +18,11 @@ After extensive research to find which platforms would be best to help us achiev
 
    - Here is link to access your localhost or type it on your URL http://localhost/wordpress
 
-   **Note: Make sure that your wampserver is running otherwise localhost wont be able to access localhost**  
+   **Note: Make sure that your wampserver is running otherwise localhost won't be able to access localhost**  
 
   ### phpmyadmin
 
-   - It is used for Database purposes, so i have zip *127_0_0_1.sql.zip* file is located in this folder. you need to import this file in to Database thn  be able to see all data.
+   - It is used for Database purposes, so i have zip *127_0_0_1.sql.zip* is located in this folder. you need to import this file in to Database than you will be able to see all data on localhost.
 
    **Note: Make sure first login as root and import data file into database**
 
