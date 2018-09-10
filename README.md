@@ -17,11 +17,9 @@ After extensive research to find which platforms would be best to help us achiev
 
     - As soon as your wampserver is running, you can be able to access localhost on wordpress
 
-      - Here is link to access your localhost or type it on your URL
+    - Here is link to access your localhost or type it on your URL http://localhost/wordpress
 
-      http://localhost/wordpress
-
-      *Note: Make sure that your wampserver is running otherwise localhost wont be able to access localhost*  
+    *Note: Make sure that your wampserver is running otherwise localhost wont be able to access localhost*  
 
   * phpmyadmin
 
