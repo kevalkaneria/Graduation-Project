@@ -6,14 +6,14 @@ After extensive research to find which platforms would be best to help us achiev
 
 ## Installation Requirements
 
-  * Wamp-server
+  ** Wamp-server
 
     - Please choose youur appopriate system and download wampserver. I have also added step by step guideline provided on *wamp report-final.docx* word document file.
 
     - Download wampserver from here
     http://www.wampserver.com/en/
 
-  * Wordpress
+  ** Wordpress
 
     - As soon as your wampserver is running, you can be able to access localhost on wordpress
 
@@ -21,7 +21,7 @@ After extensive research to find which platforms would be best to help us achiev
 
     *Note: Make sure that your wampserver is running otherwise localhost wont be able to access localhost*  
 
-  * phpmyadmin
+  ** phpmyadmin
 
     - It is used for Database purposes, so i have zip *127_0_0_1.sql.zip* file is located in this folder. you need to import this file in to Database thn  be able to see all data.
 
