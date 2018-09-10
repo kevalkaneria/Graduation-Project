@@ -6,12 +6,11 @@ After extensive research to find which platforms would be best to help us achiev
 
 ## Installation Requirements
 
-  **Wamp-server**
+  **Wamp-server
 
     - Please choose youur appopriate system and download wampserver. I have also added step by step guideline provided on **wamp report-final.docx** word document file.
 
-    - Download wampserver from here
-    http://www.wampserver.com/en/
+    - Download wampserver from here http://www.wampserver.com/en/
 
   **Wordpress**
 
